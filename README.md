@@ -40,7 +40,8 @@ When did the compromise occur?
 How did the attacker operate?
 Why does this behavior matter?
 
-  Tools & Skills
+  Tools & Skills 
+
 Wireshark (primary analysis tool)
 Packet filtering & stream reconstruction
 Protocol analysis (HTTP, DNS, Kerberos, SMB, etc.)
