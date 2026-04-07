@@ -1,0 +1,44 @@
+Day 57/100 of Cybersecurity — and today felt like zooming out and seeing the *bigger picture* 
+
+Not every breach starts with a big, obvious flaw. Sometimes it’s just… tiny cracks.
+
+Today was all about **chaining vulnerabilities** — how small, “harmless” weaknesses can link up and turn into something dangerous. It really changed how I think. Security isn’t about spotting issues in isolation anymore, it’s about asking:
+
+“What happens if an attacker connects the dots?”
+
+I walked through the attacker mindset:
+
+* Start as a normal user
+* Explore, observe, and enumerate
+* Understand what each weakness unlocks
+* Build a path to the final objective
+* Execute, validate, and refine
+
+It’s less “find the bug” and more “tell the story of the breach.”
+
+Also spent time on **incident response playbooks** — which honestly feel like the calm voice in chaos. Structured, repeatable steps when things go wrong:
+
+* Clear roles (RACI)
+* Defined severity & escalation paths
+* Step-by-step workflows for real-world scenarios (phishing, malware, account compromise)
+
+Because when an alert hits, you don’t want vibes… you want a plan.
+
+And then dipped into **Cross-Site Scripting (XSS)** — a classic but still powerful:
+
+* Injecting malicious scripts into web pages
+* Exploiting weak input validation & poor output handling
+* Leading to session hijacking, data theft, and even full compromise
+
+What stood out most?
+
+Security is not linear
+Attacks are creative, not predictable
+Small issues are never *just* small
+
+Day 57 takeaway:
+**Attackers don’t break systems in one move — they build their way in.**
+
+And honestly… learning to think like that? That’s the real level-up.
+
+#100DaysOfCybersecurity #CyberSecurityJourney #BlueTeam #Infosec #LearningInPublic
